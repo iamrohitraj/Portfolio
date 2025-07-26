@@ -6,28 +6,28 @@ import { fadeIn } from '../../FramerMotion/variants';
 
 const projects = [
     {
-        name: 'Project 1',
+        name: 'Weather forecasting app using APIs',
         year: 'March-2024',
         align: 'right',
         image: '../../public/images/website-img-1.jpg',
         link: '#',
     },
     {
-        name: 'Project 2',
+        name: 'Todo List Application ',
         year: 'March-2024',
         align: 'left',
         image: '../../public/images/website-img-2.webp',
         link: '#',
     },
     {
-        name: 'Project 3',
+        name: 'Employee Management Website',
         year: 'March-2024',
         align: 'right',
         image: '../../public/images/website-img-3.jpg',
         link: '#',
     },
     {
-        name: 'Project 4',
+        name: 'e-Commerce Website',
         year: 'March-2024',
         align: 'left',
         image: '../../public/images/website-img-4.jpg',

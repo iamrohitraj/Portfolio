@@ -11,13 +11,13 @@ const HeroText = () => {
       initial='hidden'
       whileInView='show'
       viewport = {{once: false, amount:0}}
-      className='lg:text-2xl sm:text-x uppercase text-[#B794F4]'>FRONT-END WEB DEVELOPER</motion.h2>
+      className=' md:text-[2.8rem] lg:text-6xl sm:text-4xl font-bold font-special text-[#9F7AEA]  '> ROHIT RAJ </motion.h2>
       <motion.h1 
       variants = {fadeIn('right', 0.4)}
       initial='hidden'
       whileInView='show'
       viewport = {{once: false, amount:0}}
-      className='md:text-[2.8rem] lg:text-6xl sm:text-4xl font-bold font-special text-[#9F7AEA]'>ROHIT RAJ</motion.h1>
+      className=' lg:text-2xl sm:text-x uppercase text-[#B794F4]'> FRONT-END WEB DEVELOPER </motion.h1>
       <motion.p 
       variants = {fadeIn('up', 0.6)}
       initial='hidden'
